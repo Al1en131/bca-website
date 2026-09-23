@@ -4,7 +4,7 @@
     <div class="absolute inset-0 z-0">
       <!-- High contrast monochrome professional / community image matching reference -->
       <img
-        src="/events.png"
+        src="/Events.png"
         alt="BuktiBakti BCA Commitment"
         class="w-full h-full object-cover object-center filter grayscale brightness-90 contrast-110"
       />
